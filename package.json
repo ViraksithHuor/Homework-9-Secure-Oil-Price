@@ -1,0 +1,29 @@
+{
+  "name": "homework-9-secure-oil-price",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViraksithHuor/Homework-9-Secure-Oil-Price.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ViraksithHuor/Homework-9-Secure-Oil-Price/issues"
+  },
+  "homepage": "https://github.com/ViraksithHuor/Homework-9-Secure-Oil-Price#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "express-basic-auth": "^1.2.1",
+    "express-rate-limit": "^8.3.1",
+    "express-session": "^1.19.0"
+  }
+}
